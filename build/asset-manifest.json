@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stomble-to-do-list/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stomble-to-do-list/static/js/main.42bb8b02.chunk.js",
+    "main.js.map": "/stomble-to-do-list/static/js/main.42bb8b02.chunk.js.map",
+    "runtime-main.js": "/stomble-to-do-list/static/js/runtime-main.71a4728f.js",
+    "runtime-main.js.map": "/stomble-to-do-list/static/js/runtime-main.71a4728f.js.map",
+    "static/js/2.ba59e160.chunk.js": "/stomble-to-do-list/static/js/2.ba59e160.chunk.js",
+    "static/js/2.ba59e160.chunk.js.map": "/stomble-to-do-list/static/js/2.ba59e160.chunk.js.map",
+    "index.html": "/stomble-to-do-list/index.html",
+    "precache-manifest.a0c4b94601749007af6db92b6b30d35e.js": "/stomble-to-do-list/precache-manifest.a0c4b94601749007af6db92b6b30d35e.js",
+    "service-worker.js": "/stomble-to-do-list/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/stomble-to-do-list/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ba59e160.chunk.js.LICENSE.txt": "/stomble-to-do-list/static/js/2.ba59e160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a4728f.js",
+    "static/js/2.ba59e160.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.42bb8b02.chunk.js"
+  ]
+}
