@@ -53,7 +53,8 @@ class App extends Component {
       console.log(items);
     }
   }
-
+  
+  // This method removes the list item from the UI and array.
   deleteItem(key) {
     const filteredItems = this.state.items.filter((items) => items.key !== key);
     this.setState({
